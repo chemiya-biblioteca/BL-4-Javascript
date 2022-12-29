@@ -1,0 +1,83 @@
+@@@###$$$----------EXPLICACION------------@@@###$$$
+
+
+parte 1:
+-variables
+-cuadro alertas
+-conversion tipos
+-or
+-comparacion ==
+-if de una linea
+-while
+-for con continue
+-switch
+
+
+parte 2:
+-funcion
+-otra forma de llamar
+-flecha
+-depurar
+-objeto simple y recorrerlo
+
+
+parte 3:
+-clase
+-ordenar arrray de objetos
+-operaciones sobre strings
+-opraciones sobre listas
+-recorrer listas
+-splice listas
+-array json y operaciones: find, filter y map
+-comparar array de otra manera
+-mapas
+-set
+-desestructuras
+-fecha
+
+parte 4:
+-conversion json string
+-argumentos indefinidos de entrada
+-try catch
+-lanzar error
+-clase de error
+
+parte 5:
+-acceso por id
+-query selector
+-tagname
+-name y classname
+-crear elemento y anadir
+-timeout
+
+parte 6:
+-import en el index
+-clase de otra forma
+-clase con atributos privados
+-otro import en el hello
+
+parte 7:
+-eventos boton
+-carga pagina
+-validacion tecla
+-cambio select
+-validar formulario
+-local storage y otra validacion
+-crear html de array
+
+
+parte 8:
+-promise
+-clase
+-herencia
+
+
+parte 9:
+-crear html pidiendo de api
+-callback
+
+parte 10:
+-otra validacion formulario
+
+parte 11:
+-otra validacion mas completa
